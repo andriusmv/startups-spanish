@@ -1,0 +1,5 @@
+[
+    {"startup":"Cabify","population":"8,175,133","image":"https://uploads-ssl.webflow.com/603fb07731369e5eee57a26d/6133391b7d14b112a1126774_Img%2001.svg","state":"Madrid","latitude":40.4489373,"longitude":-3.6730422,"website":"https://cabify.com/"},
+    {"startup":"Carto","population":"3,792,621","image":"https://carto.com/img/footer/carto_logo.svg","state":"Madrid","latitude":40.4205597,"longitude":-3.7082998,"website":"https://carto.com/"},
+    {"startup":"Rappi","population":"3,792,621","image":"https://about.rappi.com/themes/rappi/logo.svg","state":"Bogotá","latitude":4.6785552,"longitude":-74.0557719,"website":"https://about.rappi.com/"}
+]
